@@ -1,3 +1,3 @@
 # SocialDistancing
 
-To run the project , run SocialDistance.py file
+To run the project , run SocialDistancing.py file
